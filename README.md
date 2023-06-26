@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Yaswant28
+- 👀 I’m interested in codding
+- 🌱 I’m currently learning fulstack devlopment (now i am learning python)
+- 💞️ I’m looking to collaborate on projects involved in fulstack
+- 📫 How to reach me linkedin.com/in/yaswant-seerapu and yaswantreddy9154@gmail.com
